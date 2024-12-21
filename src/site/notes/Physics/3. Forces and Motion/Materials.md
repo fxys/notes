@@ -21,8 +21,7 @@ $$
 	- The **elastic limit** is the maximum amount a spring can be stretched and return to its original length.
 	- The **area** underneath the graph is equal to the work done by the material: for Hooke's law region, the area is easily calculated:
 	$$
-E_e = \frac{1}{2}Fx = \frac{1}{2}(kx)x = \frac{1}{2}kx^2
-$$
+E_e = \frac{1}{2}Fx = \frac{1}{2}(kx)x = \frac{1}{2}kx^2$$
 - **Elastic potential energy** measures how much energy is stored within a material after forces are exerted.
 - Examples:
 
