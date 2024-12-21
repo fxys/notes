@@ -20,27 +20,25 @@ $$
 	- The **limit of proportionality** is the point beyond which Hooke's law is no longer true.
 	- The **elastic limit** is the maximum amount a spring can be stretched and return to its original length.
 	- The **area** underneath the graph is equal to the work done by the material: for Hooke's law region, the area is easily calculated:
-	$$
-E_e = \frac{1}{2}Fx = \frac{1}{2}(kx)x = \frac{1}{2}kx^2
-$$
+	 $$
+E_e = \frac{1}{2}Fx = \frac{1}{2}(kx)x = \frac{1}{2}kx^2$$
+
+
 
 - **Elastic potential energy** measures how much energy is stored within a material after forces are exerted.
 - Examples:
-
 	 ![Pasted image 20230706132357.png](/img/user/Attachments/Attachments/Pasted%20image%2020230706132357.png)
  - **Metal Wire**:
- 
+
 	- The wire obeys Hooke's law and is elastically deformed until its elastic limit.
 	- After the elastic limit the wire experiences plastic deformation causing a permanent extension of the wire.
 	![Pasted image 20230706133633.png](/img/user/Attachments/Attachments/Pasted%20image%2020230706133633.png)
 - **Rubber**:
-
 	- Rubber does not obey Hooke's law but does not experience plastic deformation.
 	- The area between the loading and unloading curves is known as a hysteresis loop and represents the thermal energy dissipated by rubber.
 	- More work is done when stretching rubber than is done when the extension decreases.
 	![Pasted image 20230706133442.png](/img/user/Attachments/Attachments/Pasted%20image%2020230706133442.png)
 - **Polyethene**:
-
 	- Polyethene does not obey Hooke's law and easily experiences plastic deformation when a force is applied.
 
 ##### Properties
