@@ -20,7 +20,7 @@ $$
 	- The **limit of proportionality** is the point beyond which Hooke's law is no longer true.
 	- The **elastic limit** is the maximum amount a spring can be stretched and return to its original length.
 	- The **area** underneath the graph is equal to the work done by the material: for Hooke's law region, the area is easily calculated:
-	 $$
+$$
 E_e = \frac{1}{2}Fx = \frac{1}{2}(kx)x = \frac{1}{2}kx^2$$
 
 
