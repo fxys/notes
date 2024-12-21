@@ -29,7 +29,8 @@ $$
 	- **Kepler's second law**: A line segment joining the Sun to a planet sweeps out equal area in time intervals.
 		![Pasted image 20230710144618.png](/img/user/Attachments/Attachments/Pasted%20image%2020230710144618.png)
 		- When the time between AB and CD are equal the area of x equals the area of y, therefore planets move faster when they are closer to the sun.
-	- **Kepler's third law**: The square of the orbital time period of a planet is proportional to the cube of its average distance from the Sun.$$
+	- **Kepler's third law**: The square of the orbital time period of a planet is proportional to the cube of its average distance from the Sun.
+$$
 T^2 \propto r^3
 $$
 - Most planets have a near circular orbit and therefore the gravitational force between the Sun and planet provides the **centripetal force** needed for a planet to remain in orbit.
