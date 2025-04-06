@@ -49,7 +49,7 @@ $$
 
 ##### Radioactive Decay
 - Atomic nuclei are unstable when there is an imbalance in the forces within the nucleus and can emit radiation to become more stable.
-- Radioactive decay is random so it can't be known which nucleus will decay next or at what time as each nucleus has an equal probability of decaying and decay is spontaneous so the decay of nuclei is not affected by the presence of other nuclei or external factors.
+- Radioactive decay is random so it can't be known which nucleus will decay next or at what time as each nucleus has an equal probability of decaying and decay is spontaneous so the decay of nuclei is not affected by the presence of other nuclei or external factors such as pressure.
 - Alpha particles are helium nuclei that have low penetrating power and a range of a few cm in air and beta particles have a moderate penetrating power and a range of a few m in air and gamma rays are high energy electromagnetic waves so have a high range.
 	- Alpha particles and beta particles are affected by electric and magnetic fields where as gamma radiation is not and all radiation from the nucleus is ionising and can cause cellular mutations.
 - Activity is the number of decays per unit time and the decay constant, $\lambda$, is the probability, per unit time, that a given nucleus will decay and activity is proportional to the number of undecayed nuclei and is measured in Becquerels.

@@ -70,3 +70,5 @@ $$
 $$
 \frac{\Delta Q}{\Delta t}=-\frac{Q}{RC}
 $$
+- Capacitors are useful as they can release stored energy very quickly to create a high power output which can be used in camera flashes for example.
+- Capacitors can also in smoothing circuits with a changing input voltage by constantly charging and then discharging.
