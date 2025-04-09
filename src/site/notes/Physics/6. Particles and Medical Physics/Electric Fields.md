@@ -36,7 +36,7 @@ $$
 C=\frac{A\epsilon_{0}\epsilon_{r}}{d}
 $$
 	where A is the cross-sectional area of the plates, d is the separation of the plates, $\epsilon_r$ is the relative permittivity of the dielectric between the plates.
-- If a charged particles remains at rest in a uniform electric field it will move parallel to the electric field lines and if the charged particles is in motion if will travel in a positive trajectory as it experiences and electrostatic force.
+- If a charged particles remains at rest in a uniform electric field it will move parallel to the electric field lines and if the charged particles is in motion it will travel in a parabolic trajectory as it experiences an electrostatic force.
 
 ##### Electric Potential
 - The potential energy of a positive charge increases if it is moved closer to another positive charge or moved away from a negative charge.

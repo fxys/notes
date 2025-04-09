@@ -11,7 +11,7 @@
 - The proton number of atoms represents the number of protons in the nucleus and the nucleon number, *A*, is the number of protons and neutrons in the nucleus.
 - An isotope is an atom that of the same element with the same number of protons but a different number of neutrons.
 - The force that holds a nucleus together is the strong nuclear force which holds quarks together to ensure the nucleus holds together due to the electrostatic repulsion between protons.
-	- The strong nuclear force is repulsive before a separation of 0.5fm and attractive to around 3.0fm when it become 0 so the strong force had a small range compared to other fundamental forces.
+	- The strong nuclear force is repulsive before a separation of 0.5 fm and attractive to around 3.0 fm when it become 0 so the strong force has a small range compared to other fundamental forces.
 - The nuclear radius varies with the nucleon number, however, it is not directly proportional.
 $$
 R=r_{0}A^{\frac{1}{3}}
@@ -86,6 +86,7 @@ $$
 - Binding energy per nucleon is the binding energy of a nucleus divided by the number of nucleons and is more useful to compare nuclear stability.
 	- Nuclei with lower nucleon number compared to iron-56 have a lower binding energy per nucleon and are generally less stable.
 	- As nucleon number increases beyond iron-56 to binding energy per nucleon remains high but gradually decreases.
+![Pasted image 20250409223501.png](/img/user/Attachments/Attachments/Pasted%20image%2020250409223501.png)
 - Nuclear fission is the splitting of large, unstable nuclei into two smaller daughter nuclei and energy is transferred away from nuclear potential energy.
 	- Induced fission is when an unstable nucleus absorbs a neutron to make it more unstable to it splits into daughter nuclei by nuclear fission releasing more neutrons in the process.
 	- As new neutrons are produced in fission reactions, these neutrons can start another fission reaction which creates further excess neutrons and this process is a chain reaction.

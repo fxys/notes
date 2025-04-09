@@ -30,7 +30,7 @@ F=BQv\sin \theta
 $$
 	where $\theta$ is the angle between the direction of the charged particle and the magnetic field lines.
 - A charged particle in a uniform magnetic field which is perpendicular to its direction of motion travels in a circular path.
-- A velocity selector is a device consisting of perpendicular electric and magnetic fields where charged particles with a specific velocity can be filtered.
+- A velocity selector is a device consisting of perpendicular electric and magnetic fields where charged particles with a specific velocity can be filtered as they are the only ones that travel through the target slit.
 
 ##### Electromagnetism
 - Magnetic flux is the product of the magnetic flux density and the cross-sectional area perpendicular to the direction of the magnetic flux density and its is measured in Webers (Wb).
@@ -62,3 +62,4 @@ $$
 $$
 \frac{V_{p}}{V_{s}}=\frac{N_{p}}{N_{s}}=\frac{I_{s}}{I_{p}}
 $$
+- Transformers can be made more efficient by using lower resistance wires to reduce power loss between input and output, as well as laminating the core with layers of iron separated by an insulator by minimising currents induced in the core.
